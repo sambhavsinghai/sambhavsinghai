@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything.
 - 👯 A creative and innovative Entry-level Software Engineer.
-- 🥅 2020 Goals: Learn and Contribute more to Open Source projects.
+- 🥅 2021 Goals: Learn and Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to Run, Gym and Eat.
 - 🔭 “Stay hungry. Stay foolish.”
 
