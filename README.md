@@ -1,4 +1,4 @@
-### Hi there, I'm Sambhav Singhai 👋
+### Hello folks, I'm Sambhav Singhai 👋
 
 ## I'm a Learner, Leader, Thinker and Developer!!
 
